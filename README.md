@@ -25,7 +25,4 @@
   <a href="https://matrix.org/#/@xqskritch:matrix.org" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Matrix logo" />
   </a>
-  <a href="https://www.hackerrank.com/profile/xskritchc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Hackerrank logo" />
-  </a>
 </div>
