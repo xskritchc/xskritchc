@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <h2 align="center">Hello 👋 I'm a digital tech nomad exploring all things far and wide, Transmitting from the beyond! 📡㋡</h2>
 
 <br clear="both">
