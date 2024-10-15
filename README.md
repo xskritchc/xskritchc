@@ -22,7 +22,7 @@
   <a href="https://x.com/xskritchc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Twitter logo" />
   </a>
-  <a href="https://matrix.org/#/@xqskritch:matrix.org" target="_blank">
+  <a href="https://matrix.to/#/@xqskritch:matrix.org" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Matrix logo" />
   </a>
 </div>
