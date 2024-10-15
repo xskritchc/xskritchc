@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xskritchc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZwdXh4NjU3aHIwdm5vcHFzYTZweGt1cjE2aHZvZjNqbGZ0cG8wNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/phHUNy7wDCj3vElzCm/giphy.webp" alt="GIF Animation" />
+<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJrZ2owejZvbXBvdzB1cjVodDRpYWRtaWkzdWI2MmRpbDJ6aGNpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bi6RQ5x3tqoSI/giphy.webp" alt="GIF Animation" />
 
 <p align="left">
   <strong>Things I do</strong><br>
