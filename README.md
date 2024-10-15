@@ -33,6 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/xskritchc/xskritchc/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/xskritchc/.github/workflow/snake.yml" alt="Snake animation" />
 
 ###
