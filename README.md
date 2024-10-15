@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xskritchc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://x.com/xskritchc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Twitter logo" />
   </a>
